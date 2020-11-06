@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "THoaPmuvwSVSO2oDJxgOlzOy/MaxT1rdgjcoLprZvvrTrbmFYoJK1rqtSDQ1Bc9Jkq1Be3ZZGqwIk97YRvW04w==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpProjects\\Exercises\\SimpleRequests\\SimpleRequests\\Simple Requests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ehhvi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

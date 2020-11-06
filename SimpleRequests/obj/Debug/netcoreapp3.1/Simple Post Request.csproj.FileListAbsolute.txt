@@ -1,0 +1,13 @@
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\bin\Debug\netcoreapp3.1\Simple Post Request.exe
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\bin\Debug\netcoreapp3.1\Simple Post Request.deps.json
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\bin\Debug\netcoreapp3.1\Simple Post Request.runtimeconfig.json
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\bin\Debug\netcoreapp3.1\Simple Post Request.runtimeconfig.dev.json
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\bin\Debug\netcoreapp3.1\Simple Post Request.dll
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\bin\Debug\netcoreapp3.1\Simple Post Request.pdb
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.csprojAssemblyReference.cache
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.AssemblyInfoInputs.cache
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.AssemblyInfo.cs
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.dll
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.pdb
+D:\CsharpProjects\Exercises\SimplePostRequest\Simple Post Request\obj\Debug\netcoreapp3.1\Simple Post Request.genruntimeconfig.cache
